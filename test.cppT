@@ -1,0 +1,9 @@
+#include "Repository/test_repository.h"
+#include "Controller/test_controller.h"
+
+int main()
+{
+    test_repository();
+    test_controller();
+    return 0;
+}

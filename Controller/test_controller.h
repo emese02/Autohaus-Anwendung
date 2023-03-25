@@ -1,0 +1,10 @@
+#pragma once
+#include "../Domain/auto.h"
+void test_find_cars_brand();
+void test_find_cars_model();
+void test_filter_cars_age();
+void test_filter_cars_km();
+void test_sort_by_price();
+void test_modify_car();
+void test_add_favorite();
+void test_controller();
